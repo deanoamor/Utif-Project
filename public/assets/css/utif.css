@@ -1,0 +1,121 @@
+#div1 {
+    position: relative;
+    width: 500px;
+    left: 900PX;
+    top: 150px;
+}
+
+#div2 {
+    position: relative;
+    width: 500px;
+}
+
+#img1 {
+    position: absolute;
+    width: 1270px;
+    left: 280px;
+
+}
+
+#card1 {
+    position: absolute;
+    left: 500px;
+}
+
+#card2 {
+    position: absolute;
+    left: 800px;
+}
+
+#div3 {
+    position: absolute;
+    width: 300px;
+    height: 400px;
+    left: 50px;
+    margin-top: 300px;
+}
+
+#log {
+    left: 20px;
+}
+
+#img3 {
+    position: absolute;
+    width: 300px;
+    left: 50px;
+    margin-bottom: 20px;
+}
+
+.akun {
+    position: relative;
+    font-size: 30px;
+}
+
+.akun2 {
+    position: relative;
+    font-size: 15px;
+}
+
+#over {
+    position: absolute;
+    width: 100px;
+}
+
+
+
+#kotak1 {
+    position: absolute;
+    width: 60px;
+    left: 110px;
+    margin-top: 200px;
+}
+
+#kotak2 {
+    position: absolute;
+    width: 60px;
+    left: 170px;
+    margin-top: 200px;
+}
+
+#kotak3 {
+    position: absolute;
+    width: 60px;
+    left: 230px;
+    margin-top: 200px;
+}
+
+#jam,
+#menit,
+#detik {
+    color: white;
+}
+
+
+
+#crud {
+    position: absolute;
+    width: 900px;
+    left: 100px;
+    height: 600px;
+    margin-top: 40px;
+}
+
+#tambah {
+    position: absolute;
+    left: 70px;
+    margin-top: 20px;
+}
+
+#create {
+    position: absolute;
+    width: 600px;
+    left: 100px;
+    height: 500px;
+    margin-top: 70px;
+}
+
+#tambah1 {
+    position: relative;
+    left: 250px;
+    margin-top: 20px;
+}
